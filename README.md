@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 <h1>Hi, I'm Sajil! <br/><a href="https://github.com/SajilKhalid">Programmer</a> | <a href="https://www.linkedin.com/in/sajilkhalid/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
-  - Secure AWS Flask App (https://github.com/SajilKhalid/secure-aws-app)
+  <h3>Secure AWS Flask App</h3>
+  (https://github.com/SajilKhalid/secure-aws-app)
+  
+  <b>Description: </b>A Flask application built to demonstrate cloud and security-focused development skills. Features logging, basic route handling, and a structured project layout with dependencies managed via `requirements.txt`.
 
 <h2>📺 Certifications </h2>
 - Comptia Security+ (in progress)
