@@ -20,8 +20,8 @@ Technology professional with a background in Information Technology and Cybersec
 
 ### 🔐 Featured Projects
 
-### 🛡️ Security Lab Practice
-<pHands-on cybersecurity labs covering networking, security controls, authentication, encryption, endpoint security, and security operations.
+## 🛡️ Security Lab Practice
+<p>Hands-on cybersecurity labs covering networking, security controls, authentication, encryption, endpoint security, and security operations.
 
 **Focus:** Cybersecurity • Networking • Security+ • Hands-on Labs <p/>
 
@@ -30,9 +30,9 @@ Technology professional with a background in Information Technology and Cybersec
 ---
 
 ### ☁️ Coming Soon: Cloud Security Lab
-Building hands-on experience with AWS, cloud infrastructure, identity and access management, and cloud security fundamentals.
+<p>Building hands-on experience with AWS, cloud infrastructure, identity and access management, and cloud security fundamentals.
 
-**Focus:** AWS • Cloud Security • IAM • Infrastructure
+**Focus:** AWS • Cloud Security • IAM • Infrastructure<p/>
 
 ---
 
