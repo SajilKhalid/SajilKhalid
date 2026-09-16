@@ -18,6 +18,29 @@ Technology professional with a background in Information Technology and Cybersec
 💬 &nbsp;Ask me about **Cybersecurity • Security+ • Networking • Technology**  
 ⚡ &nbsp;Fun fact: **I can solve a Rubik's cube.**
 
+### 🔐 Featured Projects
+
+### 🛡️ Security Lab Practice
+Hands-on cybersecurity labs covering networking, security controls, authentication, encryption, endpoint security, and security operations.
+
+**Focus:** Cybersecurity • Networking • Security+ • Hands-on Labs
+
+[View Project →](https://github.com/SajilKhalid/Security-Lab-Practice)
+
+---
+
+### ☁️ Coming Soon: Cloud Security Lab
+Building hands-on experience with AWS, cloud infrastructure, identity and access management, and cloud security fundamentals.
+
+**Focus:** AWS • Cloud Security • IAM • Infrastructure
+
+---
+
+### 📚 Coming Soon: Cybersecurity Analysis Project
+Developing a practical cybersecurity project focused on security analysis, incident investigation, and security controls.
+
+**Focus:** CySA+ • Security Analysis • Incident Response
+
 ### 🛠️ Tech Stack
 
 <p align="left">
