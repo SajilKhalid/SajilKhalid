@@ -21,9 +21,9 @@ Technology professional with a background in Information Technology and Cybersec
 ### 🔐 Featured Projects
 
 ### 🛡️ Security Lab Practice
-Hands-on cybersecurity labs covering networking, security controls, authentication, encryption, endpoint security, and security operations.
+<pHands-on cybersecurity labs covering networking, security controls, authentication, encryption, endpoint security, and security operations.
 
-**Focus:** Cybersecurity • Networking • Security+ • Hands-on Labs
+**Focus:** Cybersecurity • Networking • Security+ • Hands-on Labs <p/>
 
 [View Project →](https://github.com/SajilKhalid/Security-Lab-Practice)
 
