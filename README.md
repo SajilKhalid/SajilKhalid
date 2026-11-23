@@ -13,9 +13,9 @@
 Technology professional with a background in Information Technology and Cybersecurity. Building hands-on experience across security, cloud, networking, and technology consulting.
 
 🔭 &nbsp;I'm currently working on **Expanding my cybersecurity portfolio through hands-on labs and projects**  
-🌱 &nbsp;I'm currently learning **CySA+ • AWS • Cloud Security**  
+🌱 &nbsp;I'm currently learning **AWS • Cloud Security**  
 👯 &nbsp;I'm looking to collaborate on **Cybersecurity, cloud, and technology projects**  
-💬 &nbsp;Ask me about **Cybersecurity • Security+ • Networking • Technology**  
+💬 &nbsp;Ask me about **Cybersecurity • CySA+ • Security+ • Networking • Technology**  
 ⚡ &nbsp;Fun fact: **I can solve a Rubik's cube.**
 
 ### 🔐 Featured Projects
